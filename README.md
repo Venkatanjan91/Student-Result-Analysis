@@ -67,7 +67,7 @@ All built using **Matplotlib** and **Seaborn**.
 
 Open the notebook using the provided link, copy it to your workspace, import the dataset, and you are ready to execute the full analysis.
 
-Notebook: [**Telecom_Customer_Churn_Analysis.ipynb**](https://colab.research.google.com/drive/11_gCGJj6-z0EEyFFv9zJiLo_5qhbkrW3?usp=sharing)
+Notebook: [**Student-Result-Analysis.ipynb**](https://colab.research.google.com/drive/11_gCGJj6-z0EEyFFv9zJiLo_5qhbkrW3?usp=sharing)
 
 ## 📦 Dataset Description
 
